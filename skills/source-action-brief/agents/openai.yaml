@@ -1,0 +1,4 @@
+interface:
+  display_name: "来源行动简报"
+  short_description: "把本地资料转成带原文出处的简报与建议行动，明确未知负责人和期限"
+  default_prompt: "用 $source-action-brief 把这份资料整理成有出处的简报和行动清单。"
