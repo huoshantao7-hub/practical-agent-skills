@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Remix Kit"
+  short_description: "将目标与参考提示词整理为可复用模板、填写示例及行为测试清单"
+  default_prompt: "使用 $prompt-remix-kit，把我的目标和参考提示词重组为可复用模板、填写示例与测试清单，保留明确约束并标注来源限制。"
